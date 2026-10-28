@@ -20,7 +20,7 @@ function App() {
       </Helmet>
       <LandingPage />
     </div>
-  );
+  )
 }
 
 export default App;
